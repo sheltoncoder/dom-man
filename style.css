@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+.red {
+  color: red;
+  background-color: aqua;
+  text-align: center;
+}
+
+.blue {
+  color: blue;
+}
